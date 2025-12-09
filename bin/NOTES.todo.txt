@@ -1,0 +1,2 @@
+gamma vanna only make images  , but need plotly to open them
+somethign wrong with the market heatmap 
