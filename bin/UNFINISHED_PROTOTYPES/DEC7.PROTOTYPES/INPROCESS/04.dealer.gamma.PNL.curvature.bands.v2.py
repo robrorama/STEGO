@@ -1,3 +1,8 @@
+# SCRIPTNAME: 04.dealer.gamma.PNL.curvature.bands.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import argparse
 import os
 import time

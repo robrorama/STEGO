@@ -1,3 +1,8 @@
+# SCRIPTNAME: 06.microprice.drift.meets.dealer.flow.alignment.v1.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import os
 import sys
 import time

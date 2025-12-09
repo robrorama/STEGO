@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# SCRIPTNAME: 01.realtime.dealer.flows.tracker.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 """
 -------------------------------------------------------------------------------
 QUANTITATIVE DERIVATIVES MONITOR (SINGLE-SHOT EDITION)

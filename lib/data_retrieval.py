@@ -1,4 +1,8 @@
 # SCRIPTNAME: data_retrieval.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 
 import yfinance as yf
 import pandas as pd

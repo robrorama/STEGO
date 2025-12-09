@@ -1,3 +1,8 @@
+# SCRIPTNAME: 10.pricing.framework.implementation.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import numpy as np
 import pandas as pd
 import scipy.stats as si

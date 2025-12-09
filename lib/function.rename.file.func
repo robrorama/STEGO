@@ -1,0 +1,31 @@
+remove_ok_prefix() {
+  if [[ $1 =~ ^ok\.[0-9]+\..*\.py$ ]]; then
+    mv -v "$1" "${1#ok.[0-9]*.}"
+  else
+    echo "Error: Input file '$1' doesn't match pattern 'ok.<number>.*.py'"
+  fi
+}
+
+remove_ok_prefix_no_num() {
+  if [[ $1 =~ ^ok\.[^.]*\.py$ ]]; then
+    mv -v "$1" "${1#ok.}"
+  else
+    echo "Error: Input file '$1' doesn't match pattern 'ok.*.py'"
+  fi
+}
+
+remove_ok_prefix.dots() {
+  if [[ $1 =~ ^ok\.[0-9]+\. ]]; then
+    mv -v "$1" "${1#ok.[0-9]*.}"
+  else
+    echo "Error: Input file '$1' doesn't match pattern 'ok.<number>.*'"
+  fi
+}
+
+remove_ok_prefix_no_num.dots() {
+  if [[ $1 =~ ^ok\. ]]; then
+    mv -v "$1" "${1#ok.}"
+  else
+    echo "Error: Input file '$1' doesn't match pattern 'ok.*'"
+  fi
+}

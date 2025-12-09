@@ -1,3 +1,8 @@
+# SCRIPTNAME: 07.bayesian.heatmaps.for.options.trading.v4.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import pandas as pd
 import numpy as np
 import yfinance as yf

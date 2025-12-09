@@ -1,3 +1,8 @@
+# SCRIPTNAME: 05.options.traders.drop.playbook.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import argparse
 import sys
 import numpy as np

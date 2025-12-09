@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# SCRIPTNAME: chartlib_unified.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 """
 chartlib_unified.py
 

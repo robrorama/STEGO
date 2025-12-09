@@ -1,3 +1,8 @@
+# SCRIPTNAME: 02.yet.another.visualizing.volatility.surface.rotations.this.time.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import yfinance as yf
 import pandas as pd
 import numpy as np

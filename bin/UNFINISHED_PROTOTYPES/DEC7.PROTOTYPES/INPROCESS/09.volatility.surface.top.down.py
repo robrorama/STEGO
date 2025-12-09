@@ -1,3 +1,8 @@
+# SCRIPTNAME: 09.volatility.surface.top.down.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import os
 import sys
 import time

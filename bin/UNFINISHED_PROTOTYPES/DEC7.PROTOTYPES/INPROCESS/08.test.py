@@ -1,3 +1,8 @@
+# SCRIPTNAME: 08.test.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import os
 import time
 import json

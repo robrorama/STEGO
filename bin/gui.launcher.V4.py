@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# SCRIPTNAME: gui.launcher.V4.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 """
 A Tkinter-based GUI to launch various financial analysis Python scripts.
 V3.1 Updates: COMPLETE Script List, TreeView, Search, Scrollbars.

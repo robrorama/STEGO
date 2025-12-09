@@ -1,3 +1,8 @@
+# SCRIPTNAME: 03.directional.pressure.via.delta.hedging.models.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 """
 HEDGE FUND OPTIONS ANALYTICS SUITE (Standalone - Robust Version)
 ----------------------------------------------------------------

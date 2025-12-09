@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# SCRIPTNAME: ok.micra9.V6.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 """
 Geometry-aware, regression-rich technical analysis dashboard.
 

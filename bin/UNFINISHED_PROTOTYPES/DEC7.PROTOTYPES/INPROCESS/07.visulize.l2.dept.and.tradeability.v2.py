@@ -1,3 +1,8 @@
+# SCRIPTNAME: 07.visulize.l2.dept.and.tradeability.v2.py
+# AUTHOR: Michael Derby
+# DATE:   December 08, 2025
+# FRAMEWORK: STEGO FINANCIAL FRAMEWORK
+
 import os
 import numpy as np
 import pandas as pd
